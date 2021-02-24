@@ -14,6 +14,8 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import { Blog } from "./components/blog/Blog";
 import BlogPost from "./components/blog/BlogPost";
+import Skills from "./components/home/Skills";
+import Interests from "./components/home/Interests";
 
 const Home = () => {
   return (
@@ -21,6 +23,8 @@ const Home = () => {
       <MainBody />
       <AboutMe />
       <Project />
+      <Skills />
+      <Interests />
     </Fragment>
   );
 };
