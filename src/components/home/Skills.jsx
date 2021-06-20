@@ -54,14 +54,14 @@ const Skills = () => {
                     />
                   </p>
                   <p className="lead">
-                    Python
+                    Python/Django
                     <ProgressBar
                       now={70}
                       style={{ width: "490px", backgroundColor: "white" }}
                     />
                   </p>
                   <p className="lead">
-                    Eiffel
+                    Go
                     <ProgressBar
                       now={60}
                       style={{ width: "490px", backgroundColor: "white" }}
@@ -85,21 +85,21 @@ const Skills = () => {
                     />
                   </p>
                   <p className="lead">
-                    Test-Driven Development
+                    React
                     <ProgressBar
                       now={80}
                       style={{ width: "490px", backgroundColor: "white" }}
                     />
                   </p>
                   <p className="lead">
-                    SQL/MongoDB
+                    PostgreSQL/MongoDB
                     <ProgressBar
                       now={75}
                       style={{ width: "490px", backgroundColor: "white" }}
                     />
                   </p>
                   <p className="lead">
-                    React
+                    Test-Driven Development
                     <ProgressBar
                       now={50}
                       style={{ width: "490px", backgroundColor: "white" }}
